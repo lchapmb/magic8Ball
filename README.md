@@ -1,1 +1,3 @@
 # magic8Ball
+
+Just saving some code from a small project. For now...
