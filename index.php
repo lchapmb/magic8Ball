@@ -68,7 +68,7 @@ function magic8Ball(){
       echo "Very doubtful.";
       break;
     default:
-      echo "Error! You've fucked it mate.";
+      echo "Error! Please try again.";
       break;    
   }
   echo "\n";
