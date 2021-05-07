@@ -3,7 +3,7 @@
 function magic8Ball(){
   echo "What is your question?\n";
   $question = readline(">>");
-  echo "So, your want to know: " . $question . "\nOne moment...\n";
+  echo "So, you want to know: " . $question . "\nOne moment...\n";
   $option = rand(0, 19);
 
   switch($option){
